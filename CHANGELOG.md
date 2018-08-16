@@ -1,3 +1,20 @@
+## 0.3.8
+
+- Pin fog-openstack for Ruby 2.1 on all platforms.
+
+## 0.3.7
+
+- Extend net-telnet pin for Ruby 2.1 on all platforms.
+
+## 0.3.6
+
+- Add net-telnet pin for Ruby 2.1 on Windows.
+
+## 0.3.5
+
+- Add codecov and simplecov-console to the default gems.
+- Bump puppetlabs_spec_helper to 2.9.0 to get the coverage functionality
+
 ## 0.3.4
 
 - Update pin of puppetlabs\_spec\_helper to require fixes to fixtures cleanup.
